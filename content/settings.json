@@ -1,26 +1,26 @@
 {
-  "store_id": 51341,
-  "name": "andersonjpnmk",
   "domain": "andersonjpnmk.netlify.app",
-  "short_name": "andersonjpnmk",
-  "description": "andersonjpnmk",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#2b227f",
   "theme": {
     "bootswatch": "_",
-    "custom": "_"
+    "custom": "ecom-beauty"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/andersonjpnmk",
+  "logo": "/img/uploads/logopq.png",
+  "name": "Acupuntura e Cia ",
+  "short_name": "Acupuntura & Cia ",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR",
-  "repository": "ecomplus-stores/andersonjpnmk",
+  "mini_logo": "",
+  "font_family": "Poppins",
+  "favicon": "/img/uploads/favi-.png",
   "icons_font": "_",
-  "font_family": "_"
+  "country_code": "BR",
+  "secondary_color": "#fe6321",
+  "icon": "/img/uploads/favi-.png",
+  "store_id": 51341,
+  "description": "Loja especializada em produtos e equipamentos para Acupuntura.\nEncontre produtos a pronta entrega, enviamos para todo Brasil.\nOs melhores preços com qualidade e atendimento personalizado.\nEstamos em São Bernardo do Campo - SP ",
+  "large_icon": "/img/uploads/favi-.png"
 }
