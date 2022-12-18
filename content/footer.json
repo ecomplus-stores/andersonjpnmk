@@ -8,22 +8,28 @@
     "title": "Informações",
     "list": [
       {
-        "text": "Acupuntura & Cia"
+        "text": "Acupuntura & Cia",
+        "url": "/pages"
       },
       {
-        "text": " Como Comprar"
+        "text": " Como Comprar",
+        "url": "/pages"
       },
       {
-        "text": " Formas de Envio"
+        "text": " Formas de Envio",
+        "url": "/pages"
       },
       {
-        "text": " Formas de Pagamento"
+        "text": " Formas de Pagamento",
+        "url": "/pages"
       },
       {
-        "text": " Segurança & Privacidade"
+        "text": " Segurança & Privacidade",
+        "url": "/pages"
       },
       {
-        "text": " Trocas & Devoluções"
+        "text": " Trocas & Devoluções",
+        "url": "/pages"
       }
     ]
   },
