@@ -1,18 +1,20 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "para Todo Brasil",
+    "title": "Envio Rápido e Seguro"
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": "parcele em até 3x sem juros no cartão",
+    "title": "5% de desconto no PIX ou "
   },
   "exchange": {
-    "show": true,
+    "show": false,
     "text": "Não gostou? A primeira troca é gratuita"
   },
   "promo": {
-    "show": true,
+    "show": false,
     "text": "Diferentes promoções ao longo do ano!"
   }
 }
