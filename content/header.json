@@ -1,17 +1,28 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 50%!",
-    "link": "/promotion"
+    "text": "",
+    "link": ""
   },
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre nós",
+        "title": "Acupuntura & Cia",
         "link": "/pages/sobre-nos"
       },
       {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
+        "title": " Como Comprar"
+      },
+      {
+        "title": " Formas de Envio"
+      },
+      {
+        "title": " Formas de Pagamento"
+      },
+      {
+        "title": " Segurança & Privacidade"
+      },
+      {
+        "title": " Trocas & Devoluções"
       }
     ],
     "phone_wpp": true,
@@ -19,11 +30,11 @@
   },
   "categories_list": {
     "featured": [],
-    "random": 6,
-    "full_width": false
+    "random": 9,
+    "full_width": true
   },
-  "desktop_megamenu": false,
+  "desktop_megamenu": true,
   "search_input": true,
-  "alphabetical_order_submenu": false,
-  "full_width_submenu": false
+  "alphabetical_order_submenu": true,
+  "full_width_submenu": true
 }
