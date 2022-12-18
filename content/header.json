@@ -6,23 +6,14 @@
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Acupuntura & Cia",
-        "link": "/pages/sobre-nos"
+        "title": "Cadastre-se ou Entre em sua conta",
+        "link": ""
+      },
+      {
+        "title": "Ver Pedidos"
       },
       {
         "title": " Como Comprar"
-      },
-      {
-        "title": " Formas de Envio"
-      },
-      {
-        "title": " Formas de Pagamento"
-      },
-      {
-        "title": " Segurança & Privacidade"
-      },
-      {
-        "title": " Trocas & Devoluções"
       }
     ],
     "phone_wpp": true,
