@@ -2,5 +2,27 @@
   "title": "Sobre nós",
   "meta_title": "Sobre nós",
   "meta_description": "Sobre nós",
-  "body": "### Lorem ipsum dolor sit amet"
+  "body": "Loja especializada em produtos e equipamentos para Acupuntura. Encontre produtos a pronta entrega, enviamos para todo Brasil. Os melhores preços com qualidade e atendimento personalizado. Estamos em São Bernardo do Campo - SP\n\nESPECIALIZADA EM TODA A ÁREA DE ACUPUNTURA, ESTAMOS LOCALIZADOS EM SÃO BERNARDO DO CAMPO.\nVocê poderá adquirir a linha mais completa do mercado em matéria de Acupuntura.\n\nVenha nos fazer uma visita !!!\n\nRua Alzira Camargo, 59 Rudge Ramos / São Bernardo do Campo / SP",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "news",
+      "title": "Veja as Novidades da Loja "
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ]
 }
