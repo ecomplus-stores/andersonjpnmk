@@ -2,5 +2,23 @@
   "title": "Contato",
   "meta_title": "Contato",
   "meta_description": "Contato",
-  "body": "### Lorem ipsum dolor sit amet"
+  "body": "### N﻿ossos contatos:",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "custom-html",
+      "html": "<br> <center><span class=\"footer__list-icon\"><i class=\"i-whatsapp\"></i> </span><a href=\"https://web.whatsapp.com/send?phone=%2B5511940720970\" target=\"_blank\" rel=\"noopener\" class=\"whatsapp-link\" data-tel=\"11940720970\">(11) 94072-0970</a></li><br><li><span class=\"footer__list-icon\"><i class=\"i-phone\"></i> </span><a href=\"tel:+1143672178\" target=\"_blank\" rel=\"noopener\">(11) 4367-2178</a></li><br><li><a href=\"mailto:acupunturaecia@uol.com.br\" target=\"_blank\" rel=\"noopener\">acupunturaecia@uol.com.br</a></li><br><li><address>Rua Alzira Camargo, 59 Rudge Ramos / São Bernardo do Campo / SP</address></li>\n<br> <p class=\"footer__social\"><a href=\"https://www.facebook.com/Acupunturaeciasbc/\" target=\"_blank\" rel=\"noopener\" aria-label=\"facebook\" style=\"color: #3b5998\"><i class=\"i-facebook\"></i></a></p>\n\n</center>\n"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ]
 }
