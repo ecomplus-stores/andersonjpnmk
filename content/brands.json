@@ -12,12 +12,16 @@
       "enabled": true
     },
     {
-      "type": "brand-retail",
-      "enabled": true,
-      "sort": "sales"
+      "type": "document-description",
+      "enabled": true
     },
     {
-      "type": "document-description",
+      "type": "brand-retail",
+      "enabled": true,
+      "sort": "news"
+    },
+    {
+      "type": "info-bar",
       "enabled": true
     }
   ]
