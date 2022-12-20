@@ -2,5 +2,22 @@
   "title": "Condições de entrega",
   "meta_title": "Condições de entrega",
   "meta_description": "Condições de entrega",
-  "body": "### Lorem ipsum dolor sit amet"
+  "body": "Envio para Todo Brasil.\n\nTodos os produtos serão enviados de acordo com a forma escolhida pelo cliente na finalização de sua compra.\n\nFicou com algum dúvida fale conosco pelo [whatsapp](https://web.whatsapp.com/send?phone=%2B5511940720970).",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ]
 }
