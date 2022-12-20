@@ -13,23 +13,23 @@
       },
       {
         "text": " Como Comprar",
-        "url": "/pages"
+        "url": "/pages/faq"
       },
       {
         "text": " Formas de Envio",
-        "url": "/pages"
+        "url": "/pages/entrega"
       },
       {
         "text": " Formas de Pagamento",
-        "url": "/pages"
+        "url": "/pages/pagamentos"
       },
       {
         "text": " Segurança & Privacidade",
-        "url": "/pages"
+        "url": "/pages/privacidade"
       },
       {
         "text": " Trocas & Devoluções",
-        "url": "/pages"
+        "url": "/pages/trocas"
       }
     ]
   },
