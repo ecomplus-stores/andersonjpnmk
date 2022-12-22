@@ -6,16 +6,8 @@
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Cadastre-se ou Entre em sua conta",
+        "title": "Entrar | Cadastrar",
         "link": "/app/#/account/"
-      },
-      {
-        "title": "Ver Pedidos",
-        "link": "/app/#/account/orders"
-      },
-      {
-        "title": " Como Comprar",
-        "link": "/pages/faq"
       }
     ],
     "phone_wpp": true,
