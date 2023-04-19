@@ -1,5 +1,27 @@
 {
   "meta_title": "",
   "meta_description": "",
-  "sections": []
+  "sections": [
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2023-04-19T16:27:42.199Z",
+          "end": "",
+          "img": "/img/uploads/slide1.png",
+          "mobile_img": "/img/uploads/slide1mobile.png",
+          "link": "https://andersonjpnmk.netlify.app/agulhas"
+        },
+        {
+          "start": "2023-04-19T16:27:48.311Z",
+          "end": "",
+          "img": "/img/uploads/slide2.png",
+          "mobile_img": "/img/uploads/slide2mobile.png",
+          "link": "https://andersonjpnmk.netlify.app/acessorios"
+        }
+      ]
+    }
+  ]
 }
