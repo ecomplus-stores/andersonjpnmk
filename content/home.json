@@ -22,6 +22,15 @@
           "link": "https://andersonjpnmk.netlify.app/acessorios"
         }
       ]
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/faixa.png"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "views"
     }
   ]
 }
