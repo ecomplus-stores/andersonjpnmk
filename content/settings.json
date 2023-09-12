@@ -1,26 +1,26 @@
 {
   "domain": "andersonjpnmk.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#2b227f",
+  "primary_color": "#c0e218",
   "theme": {
-    "bootswatch": "cosmo",
-    "custom": "_"
+    "bootswatch": "cerulean",
+    "custom": "clean-gray"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/andersonjpnmk",
-  "logo": "/img/uploads/logopq.png",
+  "logo": "/img/uploads/logotipo-com-fundo-transparente-02.png",
   "name": "Acupuntura & Cia ",
-  "short_name": "Acupuntura & Cia ",
+  "short_name": "Levls Performance",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "font_family": "Rubik",
+  "font_family": "Poppins",
   "favicon": "/img/uploads/favi-.png",
-  "icons_font": "font-awesome",
+  "icons_font": "line-awesome",
   "country_code": "BR",
-  "secondary_color": "#fe6321",
-  "icon": "/img/uploads/favi-.png",
+  "secondary_color": "#d2d2d2",
+  "icon": "/img/uploads/logotipo-com-fundo-transparente-02.png",
   "store_id": 51341,
   "description": "Loja especializada em produtos e equipamentos para Acupuntura.\nEncontre produtos a pronta entrega, enviamos para todo Brasil.\nOs melhores preços com qualidade e atendimento personalizado.\nEstamos em São Bernardo do Campo - SP ",
-  "large_icon": "/img/uploads/favi-.png"
+  "large_icon": "/img/uploads/logotipo-com-fundo-transparente-02.png"
 }
