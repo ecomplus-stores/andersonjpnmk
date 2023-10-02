@@ -19,7 +19,8 @@
     {
       "type": "responsive-banner",
       "img": "/img/uploads/__fachada.webp",
-      "mobile_img": "/img/uploads/__fachadamobile.webp"
+      "mobile_img": "/img/uploads/__fachadamobile.webp",
+      "link": "https://andersonjpnmk.netlify.app/pages/sobre-nos"
     },
     {
       "type": "banners-grid",
