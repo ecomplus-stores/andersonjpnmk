@@ -1,7 +1,7 @@
 {
   "domain": "andersonjpnmk.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#c0e218",
+  "primary_color": "#2b227f",
   "theme": {
     "bootswatch": "cerulean",
     "custom": "clean-gray"
@@ -16,11 +16,11 @@
   "mini_logo": "",
   "font_family": "Poppins",
   "favicon": "/img/uploads/favi-.png",
-  "icons_font": "line-awesome",
+  "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#d2d2d2",
-  "icon": "/img/uploads/logotipo-com-fundo-transparente-02.png",
+  "secondary_color": "#ff771f",
+  "icon": "/img/uploads/favi-.png",
   "store_id": 51341,
   "description": "Loja especializada em produtos e equipamentos para Acupuntura.\nEncontre produtos a pronta entrega, enviamos para todo Brasil.\nOs melhores preços com qualidade e atendimento personalizado.\nEstamos em São Bernardo do Campo - SP ",
-  "large_icon": "/img/uploads/logotipo-com-fundo-transparente-02.png"
+  "large_icon": "/img/uploads/favi-.png"
 }
