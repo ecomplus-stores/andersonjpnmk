@@ -25,10 +25,12 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/__aparelho.webp"
+          "img": "/img/uploads/__aparelho.webp",
+          "link": "https://andersonjpnmk.netlify.app/acessorios"
         },
         {
-          "img": "/img/uploads/__esferas.webp"
+          "img": "/img/uploads/__esferas.webp",
+          "link": "https://andersonjpnmk.netlify.app/agulhas-auriculares"
         }
       ]
     },
