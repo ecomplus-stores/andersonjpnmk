@@ -18,12 +18,24 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/faixa.png"
+      "img": "/img/uploads/__fachada.webp",
+      "mobile_img": "/img/uploads/__fachadamobile.webp"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/__aparelho.webp"
+        },
+        {
+          "img": "/img/uploads/__esferas.webp"
+        }
+      ]
     },
     {
       "type": "dynamic-showcase",
       "load_more": false,
-      "sort": "views"
+      "sort": "news"
     }
   ]
 }
