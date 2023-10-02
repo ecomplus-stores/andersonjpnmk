@@ -4,7 +4,7 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 7000,
+      "autoplay": 0,
       "full_width": true,
       "slides": [
         {
@@ -17,10 +17,18 @@
       ]
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/__fachada.webp",
-      "mobile_img": "/img/uploads/__fachadamobile.webp",
-      "link": "https://andersonjpnmk.netlify.app/pages/sobre-nos"
+      "type": "banner-slider",
+      "autoplay": 0,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2023-10-02T17:11:00.647Z",
+          "end": "",
+          "img": "/img/uploads/__fachada.webp",
+          "mobile_img": "/img/uploads/__fachadamobile.webp",
+          "link": "https://andersonjpnmk.netlify.app/pages/sobre-nos"
+        }
+      ]
     },
     {
       "type": "banners-grid",
