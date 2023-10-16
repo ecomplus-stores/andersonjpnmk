@@ -44,6 +44,21 @@
       ]
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/__stiper.webp"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/__dongbang1.webp"
+        },
+        {
+          "img": "/img/uploads/__dragon.webp"
+        }
+      ]
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "news"
