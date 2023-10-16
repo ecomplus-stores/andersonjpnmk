@@ -4,59 +4,52 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 0,
+      "autoplay": 6,
       "full_width": true,
       "slides": [
         {
-          "start": "2023-10-02T16:30:21.718Z",
+          "start": "2023-10-16T21:17:49.638Z",
           "end": "",
           "img": "/img/uploads/__dongyang.webp",
-          "mobile_img": "/img/uploads/__dongyang-m.webp",
+          "mobile_img": "/img/uploads/dongyang-m.png",
           "link": "https://andersonjpnmk.netlify.app/moxas"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 0,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "2023-10-02T17:11:00.647Z",
-          "end": "",
-          "img": "/img/uploads/__fachada.webp",
-          "mobile_img": "/img/uploads/__fachadamobile.webp",
-          "link": "https://andersonjpnmk.netlify.app/pages/sobre-nos"
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/__aparelho.webp",
-          "link": "https://andersonjpnmk.netlify.app/acessorios"
         },
         {
-          "img": "/img/uploads/__moxas.webp",
-          "link": "https://andersonjpnmk.netlify.app/moxas"
+          "start": "2023-10-16T21:17:43.390Z",
+          "end": "",
+          "img": "/img/uploads/aparelho-d.png",
+          "mobile_img": "/img/uploads/aparelho-m.png"
+        },
+        {
+          "start": "2023-10-16T21:17:37.998Z",
+          "end": "",
+          "img": "/img/uploads/moxas-d.png",
+          "mobile_img": "/img/uploads/moxas-m.png"
+        },
+        {
+          "start": "2023-10-16T21:17:32.142Z",
+          "end": "",
+          "img": "/img/uploads/stiper-d.png",
+          "mobile_img": "/img/uploads/stiper-m.png"
+        },
+        {
+          "start": "2023-10-16T21:17:26.542Z",
+          "end": "",
+          "img": "/img/uploads/dong-d.png",
+          "mobile_img": "/img/uploads/don-m.png"
+        },
+        {
+          "start": "2023-10-16T21:17:19.486Z",
+          "end": "",
+          "img": "/img/uploads/dragon-d.png",
+          "mobile_img": "/img/uploads/dragon-m.png"
         }
       ]
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/__stiper.webp"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/__dongbang1.webp"
-        },
-        {
-          "img": "/img/uploads/__dragon.webp"
-        }
-      ]
+      "img": "/img/uploads/__fachada.webp",
+      "mobile_img": "/img/uploads/__fachadamobile.webp"
     },
     {
       "type": "collection-shelf",
