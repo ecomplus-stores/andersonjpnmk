@@ -14,8 +14,18 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
-    "random": 9,
+    "featured": [
+      "/acupuntura?Acupuntura",
+      "/aparelhos?Aparelhos",
+      "/aromaterapia?Aromaterapia",
+      "/diversos?Diversos",
+      "/estetica?Estética",
+      "/macas?Macas",
+      "/moxa?Moxa",
+      "/radiestesia?Radiestesia",
+      "/reflexoterapia?Reflexoterapia"
+    ],
+    "random": 12,
     "full_width": true
   },
   "desktop_megamenu": false,
