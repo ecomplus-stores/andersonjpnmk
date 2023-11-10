@@ -56,13 +56,38 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "news",
-      "title": "Destaques da Semana"
+      "sort": "views",
+      "title": "Estética ",
+      "collection_id": "653a73912cd6b659598b5d44:categories:Estética:/estetica",
+      "link": "https://andersonjpnmk.netlify.app/estetica"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "653675942cd6b65959862bea:categories:Acupuntura:/acupuntura",
+      "sort": "views",
+      "title": "Tudo em Acupuntura",
+      "link": "https://andersonjpnmk.netlify.app/acupuntura"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "653675ae2cd6b65959862c3e:categories:Aromaterapia:/aromaterapia",
+      "sort": "views",
+      "link": "https://andersonjpnmk.netlify.app/aromaterapia"
+    },
+    {
+      "type": "page-title",
+      "title": "<h4 class=\"products-carousel__title\"><span>Destaques e Ofertas da Loja </span></h4>"
     },
     {
       "type": "dynamic-showcase",
       "load_more": false,
-      "sort": "news"
+      "sort": "offers"
     },
     {
       "type": "info-bar",
