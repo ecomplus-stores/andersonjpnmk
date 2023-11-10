@@ -85,6 +85,13 @@
       "link": "https://andersonjpnmk.netlify.app/aromaterapia"
     },
     {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0,
+      "sort": null,
+      "autoplay": 0
+    },
+    {
       "type": "custom-html",
       "html": "<h4 class=\"products-carousel__title\"><span>Destaques e Ofertas do Mês</span></h4>"
     },
