@@ -85,6 +85,10 @@
       "link": "https://andersonjpnmk.netlify.app/aromaterapia"
     },
     {
+      "type": "page-title",
+      "title": "Navegue por marcas"
+    },
+    {
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0,
