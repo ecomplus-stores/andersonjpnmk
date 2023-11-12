@@ -5,7 +5,13 @@
       "enabled": true
     },
     {
-      "type": "page-title"
+      "type": "page-title",
+      "title": "Navegue por marcas"
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0
     },
     {
       "type": "document-banner",
