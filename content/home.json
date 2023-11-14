@@ -53,8 +53,8 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/__fachada.webp",
-      "mobile_img": "/img/uploads/__fachadamobile.webp"
+      "img": "/img/uploads/fachadanov1.png",
+      "mobile_img": "/img/uploads/fachadamobile1.png"
     },
     {
       "type": "collection-shelf",
