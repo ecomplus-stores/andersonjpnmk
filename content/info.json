@@ -2,12 +2,14 @@
   "shipping": {
     "show": true,
     "text": "para Todo Brasil",
-    "title": "Envio Rápido e Seguro"
+    "title": "Envio Rápido e Seguro",
+    "link": "https://www.acupunturaecia.com.br/"
   },
   "installments": {
     "show": true,
     "text": "parcele em até 3x sem juros no cartão",
-    "title": "5% de desconto no PIX ou "
+    "title": "5% de desconto no PIX ou ",
+    "link": "https://www.acupunturaecia.com.br/"
   },
   "exchange": {
     "show": false,
