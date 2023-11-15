@@ -7,7 +7,7 @@
     "pages": [
       {
         "title": "Entrar | Cadastrar",
-        "link": "/app/#/account/"
+        "link": "https://www.acupunturaecia.com.br/app/#/account/"
       }
     ],
     "phone_wpp": true,
