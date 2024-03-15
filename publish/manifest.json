@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.f2c70dd447d496a2a9438520d906fef3.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.514e16272798d3026d2dc4fa6f1cc56f.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.9ebe58ed0da57405217622e963c6e6a1.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.7c70aad45fd248ba0862a1567ef15844.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.1d92670f8b35bbc11003d5bde46dd377.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Acupuntura & Cia ",
+  "short_name": "Acupuntura & Cia",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Loja especializada em produtos e equipamentos para Acupuntura.\nEncontre produtos a pronta entrega, enviamos para todo Brasil.\nOs melhores preços com qualidade e atendimento personalizado.\nEstamos em São Bernardo do Campo - SP ",
+  "background_color": "#ffffff",
+  "theme_color": "#2b227f"
+}
